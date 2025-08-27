@@ -1,5 +1,5 @@
 # ProgramacionVideojuegos
-#  Hola, soy Diego Alexander López Rodríguez  
+## Hola, soy Diego Alexander López Rodríguez
 
 ![Foto personal](https://github.com/Leidy-v/ProgramacionVideojuegos/blob/4f38db8212abe405952efdebaf117cdeeb169fc0/Diego/foto.jpeg)
 
