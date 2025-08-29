@@ -1,5 +1,6 @@
 # ProgramacionVideojuegos
-## Hola, soy Diego Alexander López Rodríguez
+
+# Hola, soy Diego Alexander López Rodríguez
 
 ![Foto personal](https://github.com/Leidy-v/ProgramacionVideojuegos/blob/4f38db8212abe405952efdebaf117cdeeb169fc0/Diego/foto.jpeg)
 
@@ -37,7 +38,7 @@ A mis 28 años, aporto madurez, disciplina y una visión estratégica, orientada
 ![](Leidy/foto.jpg)
 
 
-## Luis López
+# Luis López
 **Rol de la industria:** Artista de personajes
 **Ubicación:** Colombia 
 **Perfil breve** Soy artista con formación en técnicas tradicionales como dibujo, sombread y anatomia. Me idea es aplicar mi experiencia en el arte clásico para la creación y diseño de personajes en el mundo de los videojuegos, creando personajes increibles y memorables.
