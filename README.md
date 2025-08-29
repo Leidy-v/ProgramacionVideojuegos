@@ -13,6 +13,7 @@ Tunja, Boyacá - Colombia
 Soy un estudiante apasionado por la tecnología, el diseño multimedia y el desarrollo de videojuegos.  
 Me interesa combinar creatividad e innovación para crear experiencias interactivas que conecten con las personas. 
  
+ 
 <h1>Camilo Andrés Gutiérrez Jiménez</h1>
 <img src="/Camilo Gutiérrez/foto_perfil_unad.jpg">
 <h2>Rol en la industria</h2>
@@ -23,6 +24,7 @@ Me interesa combinar creatividad e innovación para crear experiencias interacti
 <p>Actualmente curso el noveno semestre de Ingeniería Multimedia, con línea de profundización en Gestión de Proyectos Multimedia. Mi formación se centra en la planificación, ejecución y control de proyectos digitales, integrando disciplinas como desarrollo, diseño, audiovisuales y experiencia de usuario para entregar soluciones innovadoras y de calidad.
 
 A mis 28 años, aporto madurez, disciplina y una visión estratégica, orientada a la eficiencia y el liderazgo en entornos multidisciplinares. Busco oportunidades para aplicar mis conocimientos en gestión de proyectos, contribuir al ciclo completo de desarrollo y fortalecerme profesionalmente en la industria multimedia.</p>
+
 
 # Leidy Buitrago 
 
@@ -35,4 +37,7 @@ A mis 28 años, aporto madurez, disciplina y una visión estratégica, orientada
 ![](Leidy/foto.jpg)
 
 
-
+## Luis López
+**Rol de la industria:** Artista de personajes
+**Ubicación:** Colombia 
+**Perfil breve** Soy artista con formación en técnicas tradicionales como dibujo, sombread y anatomia. Me idea es aplicar mi experiencia en el arte clásico para la creación y diseño de personajes en el mundo de los videojuegos, creando personajes increibles y memorables.
