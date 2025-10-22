@@ -1,4 +1,4 @@
 repository "juego/projecto mario@4673888043515@cloud"
   path "/"
-    smartbranch "/main"                  
+    smartbranch "/main"                   
      
